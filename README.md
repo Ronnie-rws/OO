@@ -1,2 +1,2 @@
 # OO
- Orientação a objetos com javascript
+ Iniciando os estudo de orientação a objetos com javascript.
